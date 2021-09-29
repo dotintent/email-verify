@@ -4,10 +4,10 @@
   "description": "A tool to verify an email address exits via SMTP",
   "main": "index.js",
   "dependencies": {
-    "bluebird": "^3.5.1",
-    "mocha": "^4.0.1",
-    "nyc": "^11.3.0",
-    "validator": "^9.1.1"
+    "bluebird": "^3.7.2",
+    "mocha": "^9.1.2",
+    "nyc": "^15.1.0",
+    "validator": "^13.6.0"
   },
   "devDependencies": {},
   "bugs": {
@@ -36,7 +36,8 @@
     "sancowinx <jm-sarn@hotmail.com> (https://github.com/sancowinx)",
     "Martin Edwards <martin@brilliantnoise.com> (https://github.com/mledwards)",
     "james075 <james.heng@epitech.eu> (https://github.com/james075)",
-    "Matti Savolainen <matti@applifier.com> (https://github.com/Nomon)"
+    "Matti Savolainen <matti@applifier.com> (https://github.com/Nomon)",
+    "Michal Burdzy <mmicalt@gmail.com> (https://github.com/mmicalt)"
   ],
   "license": "ISC",
   "keywords": [
