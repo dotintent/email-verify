@@ -1,3 +1,9 @@
+# !Deprecated! 
+## Please use deep-email-verify instead of this library
+
+This library should not be used anymore - it is unreliable and incredibly slow. To validate email use other libraries, preferably [deep-email-verify](https://www.npmjs.com/package/deep-email-validator)
+
+
 # SMTP Email Verification
 
 ### Install
